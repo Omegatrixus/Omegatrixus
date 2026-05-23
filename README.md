@@ -2,6 +2,13 @@
 
 <!-- HERO -->
 
+
+
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header&text=Omegatrixus&fontSize=42&fontColor=39FF14&animation=twinkling" alt="header wave" />
+</p>
+
 <p align="center" width="100%">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Initializing+Omegatrixus...;Systems+Architect+%7C+Developer;Building+clean+tools+that+feel+alive;Automating+the+future%2C+one+commit+at+a+time"
@@ -9,11 +16,6 @@
   />
 </p>
 
-
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header&text=Omegatrixus&fontSize=42&fontColor=39FF14&animation=twinkling" alt="header wave" />
-</p>
 
 ```json
 {
