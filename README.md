@@ -1,9 +1,4 @@
-# Omegatrixus README Upgrade
 
-<!--
-Copy this whole file into your README.md.
-Replace usernames, links, and project placeholders where needed.
--->
 
 <!-- HERO -->
 
