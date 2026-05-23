@@ -10,7 +10,7 @@
 
 <br>
 
-### 👨‍💻 `<whoami>`
+###  `<whoami>`
 ```json
 {
   "name": "Omegatrixus",
@@ -21,35 +21,32 @@
 }
 ```
 
-### 🏆 Achievements Unlocked
+###  Achievements Unlocked
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Omegatrixus&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
   </a>
 </div>
 
-### ⚡ Core Technologies
+###  Core Technologies
 <div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Change these icons by adding or removing from the 'i=' list -->
     <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux,bash,vim&perline=7&theme=dark" alt="Skills" />
   </a>
 </div>
 
 <br>
 
-### 📊 System Telemetry
+###  System Telemetry
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omegatrixus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omegatrixus&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-### 📈 Activity Matrix
+###  Activity Matrix
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omegatrixus&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
-### 🐍 Contribution Wormhole
+###  Contribution Wormhole
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omegatrixus/Omegatrixus/output/github-contribution-grid-snake-dark.svg">
