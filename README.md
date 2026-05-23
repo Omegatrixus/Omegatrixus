@@ -2,27 +2,18 @@
 
 <!-- HERO -->
 
-<p align="center">
-  <img
+<p align="center" width="100%">
+  <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Initializing+Omegatrixus...;Systems+Architect+%7C+Developer;Building+clean+tools+that+feel+alive;Automating+the+future%2C+one+commit+at+a+time"
     alt="Typing SVG"
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omegatrixus&label=SYSTEM+CONNECTIONS&style=for-the-badge&color=00f3ff" alt="Profile views" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00f3ff?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff4dff?style=for-the-badge" alt="Mode" />
-</p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header&text=Omegatrixus&fontSize=42&fontColor=39FF14&animation=twinkling" alt="header wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header&text=Omegatrixus&fontSize=42&fontColor=39FF14&animation=twinkling" alt="header wave" />
 </p>
-
----
-
-## `<whoami>`
 
 ```json
 {
@@ -35,74 +26,22 @@
 }
 ```
 
----
-
-## `// STATUS PANEL`
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Focus</b><br/>Open-source systems</td>
-    <td align="center"><b>Build Style</b><br/>Fast, clean, usable</td>
-    <td align="center"><b>Current Mood</b><br/>Neon terminal energy</td>
-  </tr>
-</table>
-
----
-
-## `// FEATURED SIGNALS`
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omegatrixus&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="Trophies" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omegatrixus&theme=tokyonight" width="100%" alt="Profile summary" />
 </p>
 
----
-
-## `// CORE STACK`
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux,bash,vim,html,css&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,git,linux,bash,vim,html,css&theme=dark" alt="Skills" />
 </p>
 
----
 
-## `// TELEMETRY`
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omegatrixus&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak" />
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Omegatrixus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omegatrixus&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegatrixus&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top languages" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Omegatrixus&theme=tokyonight&hide_border=true" width="100%" alt="WakaTime stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-## `// ACTIVITY MATRIX`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omegatrixus&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 </p>
-
----
-
-## `// CONTRIBUTION WORMHOLE`
 
 <p align="center">
   <picture>
@@ -112,21 +51,6 @@
   </picture>
 </p>
 
----
-
-
-
-## `// CURRENT OPERATIONAL PHILOSOPHY`
-
-* Build the useful thing first.
-* Make the interface feel alive.
-* Keep the codebase maintainable.
-* Automate the boring parts.
-* Ship, then improve.
-
----
-
-## `// CONNECT`
 
 <p align="center">
   <a href="https://github.com/Omegatrixus">
@@ -138,10 +62,12 @@
   <a href="mailto:you@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
+  <p align="center" width="100%">
+    <img src="https://komarev.com/ghpvc/?username=Omegatrixus&label=SYSTEM+CONNECTIONS&style=for-the-badge&color=00f3ff" alt="Profile views" />
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00f3ff?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff4dff?style=for-the-badge" alt="Mode" />
+  </p>
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=120&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=39FF14&animation=twinkling" alt="footer wave" />
-</p>
