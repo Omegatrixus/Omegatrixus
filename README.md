@@ -114,40 +114,7 @@
 
 ---
 
-## `// PROJECT CONTROL`
 
-<table>
-  <tr>
-    <td>
-      <h3>Project 01</h3>
-      <p><b>Name:</b> Your project name here</p>
-      <p><b>Goal:</b> What it does in one line</p>
-      <p><b>Stack:</b> React, Node, PostgreSQL</p>
-    </td>
-    <td>
-      <h3>Project 02</h3>
-      <p><b>Name:</b> Your project name here</p>
-      <p><b>Goal:</b> What it does in one line</p>
-      <p><b>Stack:</b> Next.js, Docker, API</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Project 03</h3>
-      <p><b>Name:</b> Your project name here</p>
-      <p><b>Goal:</b> What it does in one line</p>
-      <p><b>Stack:</b> Python, Automation, CLI</p>
-    </td>
-    <td>
-      <h3>Project 04</h3>
-      <p><b>Name:</b> Your project name here</p>
-      <p><b>Goal:</b> What it does in one line</p>
-      <p><b>Stack:</b> Open Source, UI, Tooling</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## `// CURRENT OPERATIONAL PHILOSOPHY`
 
